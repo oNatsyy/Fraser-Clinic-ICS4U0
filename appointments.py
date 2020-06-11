@@ -1,5 +1,5 @@
 #-------------------------------------------------------
-# Name:        Fraser Clinic
+# Name:        appointments.py
 # Purpose:     Education only, copying will be subject to plagiarism
 # Author:      Syed Abidi
 # Created:     2-February-2020
